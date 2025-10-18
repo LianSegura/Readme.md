@@ -1,5 +1,5 @@
 ##Titulo
-Noticiero climatico.py
+Noticiero climatico
 
 ##Descripción
 El tema trata sobre el cambio climático, algo que nos afecta en varios aspectos hoy en día, aunque claro...como diría Paulo Coelho, Los problemas nunca se acaban. Pero las soluciones tampoco!. En este proyecto, tenemos a nuestro noticiero climático, alias NoCli, quien por medio de la plataforma de discord, diariamente presentara al usuario noticias sobre el cambio climático, y a la vez soluciones. También cuenta con sintetizador de voz, modo que promedio del phyton no solo buscará informar al usuario en discord sino también a los programadores. En este, se estará utilizando por la comodidad la versión 3.9 del intérprete de phyton. "Si estás lo suficientemente preocupado por un resultado, posiblemente harás algo para solucionarlo." - William James
